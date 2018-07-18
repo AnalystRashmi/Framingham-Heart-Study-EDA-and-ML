@@ -15,7 +15,7 @@ They can then compare other patients exhibiting similar clinical patterns to the
 
 ### Description of the Framingham Heart Study data :
 
-The data for problem come from the Framingham Heart Study, centered in Framingham, Massachusetts. Originating in 1948, the Framingham Heart Study is an ongoing prospective study of risk factors for cardiovascular disease. The Framingham Heart Study is now conducted in collaboration with Boston University. Its objective is to identify common factors or characteristics that contribute to CVD by following its development over a long period of time in a large group of participants who had not yet developed overt symptoms of CVD or suffered a heart attack or stroke.
+The data for problem come from the Framingham Heart Study, centered in Framingham, Massachusetts. Originating in 1948, the Framingham Heart Study is an ongoing prospective study of risk factors for cardiovascular disease. The Framingham Heart Study is now conducted in collaboration with Boston University. Its objective is to identify common factors or characteristics that contribute to CVD(Cardiovascular disease) by following its development over a long period of time in a large group of participants who had not yet developed overt symptoms of CVD or suffered a heart attack or stroke.
 
-Using accessible metrics such as age, diabetes status, smoking history, cholesterol levels, and body mass index (BMI), study is aimed to predict whether or not an individualy is likely to suffer from CVD.
+Using accessible metrics such as age, diabetes status, smoking history, cholesterol levels, and body mass index (BMI), study is aimed to predict whether or not an individual is likely to suffer from Cardiovascular disease.
 
